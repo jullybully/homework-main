@@ -16,6 +16,6 @@ if (!\class_exists(App_KernelDevDebugContainer::class, false)) {
 
 return new \ContainerSQSmBUC\App_KernelDevDebugContainer([
     'container.build_hash' => 'SQSmBUC',
-    'container.build_id' => '39f1374d',
-    'container.build_time' => 1681667753,
+    'container.build_id' => '7b3a6713',
+    'container.build_time' => 1681669267,
 ], __DIR__.\DIRECTORY_SEPARATOR.'ContainerSQSmBUC');

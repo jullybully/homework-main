@@ -101,7 +101,7 @@ After the installation you should see the Homepage with preset data:
    * Editing results are persisted in the database
    * Add a new "Edit" button in the Listing Page
    
-   Documentation:
+   Documentation:8000
    * https://symfony.com/doc/current/page_creation.html
    * https://symfony.com/doc/current/doctrine.html
    * https://symfony.com/doc/current/forms.html
